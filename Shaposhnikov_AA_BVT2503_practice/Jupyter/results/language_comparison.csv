@@ -1,0 +1,7 @@
+﻿model,query_language,precision_at_3,questions
+DistilUSE multilingual,en,1.0,10
+DistilUSE multilingual,ru,0.8666666666666667,15
+MPNet multilingual,en,0.9,10
+MPNet multilingual,ru,0.9333333333333333,15
+MiniLM multilingual,en,0.9,10
+MiniLM multilingual,ru,0.8666666666666667,15

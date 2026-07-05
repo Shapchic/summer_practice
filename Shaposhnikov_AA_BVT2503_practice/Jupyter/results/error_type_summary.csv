@@ -1,0 +1,5 @@
+﻿error_type,errors_count,models
+"auth/token: проверка срока действия JWT путается с паролями, валидацией или общими проверками",3,"DistilUSE multilingual, MPNet multilingual, MiniLM multilingual"
+utils/hash: вычисление хеша файла путается с парольными hash/check функциями,2,"MPNet multilingual, MiniLM multilingual"
+database/bulk insert: массовая вставка путается с подсчётом записей или обычной вставкой,1,MiniLM multilingual
+прочие близкие по смыслу функции,1,DistilUSE multilingual

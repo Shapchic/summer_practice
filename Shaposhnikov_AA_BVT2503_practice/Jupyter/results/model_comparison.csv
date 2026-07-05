@@ -1,0 +1,4 @@
+﻿model,model_name,precision_at_3,hits,questions_total,seconds
+MPNet multilingual,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,0.92,23,25,20.33
+DistilUSE multilingual,sentence-transformers/distiluse-base-multilingual-cased-v2,0.92,23,25,28.47
+MiniLM multilingual,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,0.88,22,25,12.93
